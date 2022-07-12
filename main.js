@@ -152,9 +152,9 @@ global.reloadHandler = async function (restatConn) {
   }
 
   conn.welcome = 'Hai, @user!\nWelcome to @subject\n\n@desc'
-  conn.bye = 'Sayonara @user!'
-  conn.spromote = '@user now admin!'
-  conn.sdemote = '@user now not admin!'
+  conn.bye = 'Selamat Jalan @user!'
+  conn.spromote = '@user kamu sekarang admin!'
+  conn.sdemote = '@user kamu sekarang jadi member biasa!'
   conn.handler = handler.handler.bind(global.conn)
   conn.participantsUpdate = handler.participantsUpdate.bind(global.conn)
   conn.onDelete = handler.deleteUpdate.bind(global.conn)
