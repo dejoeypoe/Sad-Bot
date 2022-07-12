@@ -1,7 +1,4 @@
-------------
-NEW MODULES:
-https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz/file
--------------
+
 
 ## UNTUK PENGGUNA HEROKU
 
@@ -18,7 +15,7 @@ https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz
 
 ## UNTUK PENGGUNA REPLIT
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/FahriAdison/Sad-Multi-Device)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://github.com/dejoeypoe/Sad-Bot)
 ```cmd
 Buka Console
 ------------
@@ -58,7 +55,7 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/FahriAdison/Sad-Multi-Device
+git clone https://github.com/dejoeypoe/Sad-Bot
 cd bot-md
 npm i
 node .
@@ -74,7 +71,7 @@ $ apt update && upgrade -y
 $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
-$ git clone https://github.com/FahriAdison/Sad-Multi-Device
+$ git clone https://github.com/dejoeypoe/Sad-Bot
 $ cd bot-md
 $ npm i
 $ node .
@@ -84,13 +81,13 @@ $ node .
 
 
 Ada Yg Error?Langsung Chat
-https://wa.me/17608914335
+https://wa.me/+6281390260036
 
 error pas install module?
 coba module dibawah ini
 
 via MediaFire:
-(ntar update kalau kelar)
+https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz/file
 
 via github:
 (ntar update kalau kelar)
