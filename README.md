@@ -51,12 +51,16 @@ Choose your repo
 
 $ sudo apt update && upgrade -y
 $ sudo apt install ffmpeg
-* Install Node JS (sy menggunakan 1.14.x)
+Install Node JS (sy menggunakan 1.14.x)
   & curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
   & sudo apt-get install -y nodejs
-* Install git
+Install git
   $ sudo apt-get update
   $ sudo apt-get install git
+$ git clone https://github.com/dejoeypoe/Sad-Bot
+$ cd Sad-Bot
+$ npm i
+$ node .
 ---------
 
 
