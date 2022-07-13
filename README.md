@@ -49,6 +49,7 @@ Choose your repo
 
 ## UNTUK PENGGUNA UBUNTU
 
+```
 $ sudo apt update && upgrade -y
 $ sudo apt install ffmpeg
 & curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
@@ -59,6 +60,7 @@ $ git clone https://github.com/dejoeypoe/Sad-Bot
 $ cd Sad-Bot
 $ npm i
 $ node .
+```
 ---------
 
 
